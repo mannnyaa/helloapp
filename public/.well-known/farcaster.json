@@ -5,7 +5,6 @@
     "homeUrl": "https://api.farcaster.xyz/miniapps/hosted-manifest/0197a166-350d-8ba7-2011-ae0b1813b28e/",
     "imageUrl": "https://api.farcaster.xyz/miniapps/hosted-manifest/0197a166-350d-8ba7-2011-ae0b1813b28e/logo.png"
   }
-}
  "accountAssociation": {
     "header": "eyJmaWQiOjY3Njc1MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDcyNTkxRmU3MEU1NmJkQ2VjNjc1OUZiMzdFOGI3ZTgwOWUzQjNiNTIifQ",
     "payload": "eyJkb21haW4iOiJoZWxsby13b3JsZC1ibG9uZC1maXZlLnZlcmNlbC5hcHAifQ",
