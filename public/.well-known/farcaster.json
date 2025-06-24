@@ -2,7 +2,7 @@
   "frame": {
     "version": "1",
     "name": "HelloWorld",
-    "homeUrl": "hello-world-blond-five.vercel.app/",
-    "imageUrl": "hello-world-blond-five.vercel.app/logo.png"
+    "homeUrl": "https://api.farcaster.xyz/miniapps/hosted-manifest/0197a166-350d-8ba7-2011-ae0b1813b28e/",
+    "imageUrl": "https://api.farcaster.xyz/miniapps/hosted-manifest/0197a166-350d-8ba7-2011-ae0b1813b28e/logo.png"
   }
 }
